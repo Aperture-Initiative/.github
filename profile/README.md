@@ -10,4 +10,3 @@ Cheers,
 
 -- ShadowDev7
 
-PS: the logo is inspired by aperture (modified camera lens age idk), I will change it later 
