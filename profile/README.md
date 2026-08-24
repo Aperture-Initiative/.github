@@ -1,5 +1,11 @@
 ## Hi there 👋
 
-We will improve this later, but for now just know this is a future non profit 
+You might ask:
 
-thanks
+"what is this?"
+
+Basically this is a future organzaition. I should mention a lot of work needs to be done before we start operation, but, for now. Just know we are in development :D
+
+Cheers,
+
+-- ShadowDev7
